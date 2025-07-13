@@ -11,4 +11,4 @@ dist/
 
 # .gitignore
 config/config.env
-*.env
+ 
